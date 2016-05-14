@@ -2,22 +2,12 @@
 
 <html>
   <head>
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-42162424-12', 'auto');
-  ga('send', 'pageview');
-
-</script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <!-- SEO -->
-    <title>BitCrypto - Crypto Currency Investment Options</title>
-    <meta name="description" content="BitCrypto is an online investment platform that allows users to invest their crypto currency in various crypto ventures and projects in return for ROI. BitCrypto is one of the most advanced and unique platforms on the web." />
+    <title>BitNow - Crypto Currency Investment Options</title>
+    <meta name="description" content="BitNow is an online investment platform that allows users to invest their crypto currency in various crypto ventures and projects in return for ROI. BitNow is one of the most advanced and unique platforms on the web." />
     <meta name="keywords" content="bitcoin, litecoin, dogecoin, paycoin, invest, investment, platform, firm, business, unique, advanced, hyip, program, high, yield, options, crypto currency" />
     <link href="/favicon.png" rel="icon" type="image/png" />
     
@@ -78,7 +68,7 @@
           <div class="overlay">
             <div class="vertical-center text-center">
               <div class="container">
-                <h1 class="no-margin">BitCrypto - Profitable Crypto Currency Investments</h1>
+                <h1 class="no-margin">BitNow - Profitable Crypto Currency Investments</h1>
               </div> <!-- /container -->
             </div> <!-- /vertical-center -->
           </div> <!-- /overlay -->
@@ -90,7 +80,7 @@
         <div id="pricing-tables-1-block" class="pricing-tables-1 block">
           <div class="container">
 <h3><center>Select Your Plan</center></h3>
-<p><center>Select the plan that best suites the interest rate you wish to receive from BitCrypto.</center>
+<p><center>Select the plan that best suites the interest rate you wish to receive from BitNow.</center>
             <div class="row margin-top-50">
               
               <div class="col-xs-12 col-md-3">
@@ -131,7 +121,7 @@
                   <div class="pricing-table-description">
                     <ul class="list-unstyled">
                       <li>750% Total ROI</li>
-                      <li>Paid Daily</li>
+                      <li>Daily</li>
                       <li><strong>Minimum: 0.01 BTC</strong></li>
                       <li><strong>Maximum: 2.00 BTC</strong></li>
                       <li>No Fees</li>
@@ -294,11 +284,11 @@
               
               <div class="services-2-content col-xs-12">
 
-                <h2><center>Why Invest with BitCrypto?</center></h2>
+                <h2><center>Why Invest with BitNow?</center></h2>
 
                 <div class="row margin-bottom-40">
                   <div class="col-xs-12 col-md-9">
-                    <p>Below are some of the many reasons why investing your Bitcoin with BitCrypto is a profitable and wise financial decision!</p>
+                    <p>Below are some of the many reasons why investing your Bitcoin with BitNow is a profitable and wise financial decision!</p>
                   </div>
 
    
@@ -310,12 +300,12 @@
                     <div class="panels-item col-sm-4">
                       <i class="icon ion-coffee text-color-theme"></i>
                       <h6>Profitable</h6>
-                      <p>BitCrypto offers competitive and fixed plan rates to all potential investors.</p>
+                      <p>BitNow offers competitive and fixed plan rates to all potential investors.</p>
                     </div> <!-- /panels-item -->
                     <div class="panels-item col-sm-4">
                       <i class="icon ion-speedometer text-color-theme"></i>
                       <h6>Productive</h6>
-                      <p>All funds invested into BitCrypto are utilized into profitable projects and crypto ventures.</p>
+                      <p>All funds invested into BitNow are utilized into profitable projects and crypto ventures.</p>
                     </div> <!-- /panels-item -->
                     <div class="panels-item col-sm-4">
                       <i class="icon ion-clock text-color-theme"></i>
@@ -328,17 +318,17 @@
                     <div class="panels-item col-sm-4">
                       <i class="icon ion-clipboard text-color-theme"></i>
                       <h6>Detailed Tracking</h6>
-                      <p>BitCrypto uses one of a kind technology to track all incoming invetments and outgoing repayments.</p>
+                      <p>BitNow uses one of a kind technology to track all incoming invetments and outgoing repayments.</p>
                     </div> <!-- /panels-item -->
                     <div class="panels-item col-sm-4">
                       <i class="icon ion-paper-airplane text-color-theme"></i>
                       <h6>Worldwide</h6>
-                      <p>BitCrypto is available to crypto currency investors around the globe.</p>
+                      <p>BitNow is available to crypto currency investors around the globe.</p>
                     </div> <!-- /panels-item -->
                     <div class="panels-item col-sm-4">
                       <i class="icon ion-help-buoy text-color-theme"></i>
                       <h6>Quick Support</h6>
-                      <p>Clients always come first at BitCrypto, all inquiries are handled always within 24 hours.</p>
+                      <p>Clients always come first at BitNow, all inquiries are handled always within 24 hours.</p>
                     </div> <!-- /panels-item -->
                   </div> <!-- /row -->
 
@@ -361,7 +351,7 @@
               <div class="region">
 
                 <div id="copyright-block" class="block">
-                  <p>BitCrypto © Copyright 2015</p>
+                  <p>BitNow © Copyright 2015</p>
                 </div> <!-- /copyright-block -->
 
 

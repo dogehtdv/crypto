@@ -1,0 +1,176 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd,
+fieldset, form, label, legend,
+/*table, caption, tbody, tfoot, thead, tr, th, td,*/
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	font: 12px verdana; 
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+a { font: 14px verdana; text-decoration: none; color: black; }
+a:hover { font: 14px verdana; text-decoration: none; color: grey; }
+
+
+.header { height: 80px; min-width: 850px; max-width: 1200px; margin: auto; }
+.logo { margin: 5px 0 0 0; float: left; }
+.menu { margin: 15px 60px 0 0; float: right; }
+
+
+.manage { 
+
+height: 400px;
+
+padding: 15px 0 15px 0;
+
+
+background: #1e5799; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFlNTc5OSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc2JSIgc3RvcC1jb2xvcj0iIzdkYjllOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijk5JSIgc3RvcC1jb2xvcj0iIzI5ODlkOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+background: -moz-linear-gradient(top,  #1e5799 0%, #7db9e8 76%, #2989d8 99%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e5799), color-stop(76%,#7db9e8), color-stop(99%,#2989d8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #1e5799 0%,#7db9e8 76%,#2989d8 99%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #1e5799 0%,#7db9e8 76%,#2989d8 99%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #1e5799 0%,#7db9e8 76%,#2989d8 99%); /* IE10+ */
+background: linear-gradient(to bottom,  #1e5799 0%,#7db9e8 76%,#2989d8 99%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#2989d8',GradientType=0 ); /* IE6-8 */
+
+
+
+}
+
+
+.manage_box { height: 350px; }
+.manage_box, .footer, .scontent { min-width: 850px; max-width: 1200px; margin: auto; }
+.footer { text-align: center; }
+.scontent { min-height: 350px; }
+
+.select { background: white; border: 2px solid black; border-radius: 6px; margin: 10px 0 10px 0; padding: 20px; height: 270px; width: auto; text-align: center; overflow: hidden; }
+
+.h_title { font: bold 30px verdana;  }
+
+.h_s_title { font: bold 24px verdana; color: #1e5799;  }
+
+.clear { clear: both; }
+.clear_short { clear: both; height: 4px; }
+.clear_tall { clear: both; height: 10px; }
+
+.head { margin: 15px; text-align: center; padding: 15px 20px 15px 20px; font: bold 18px verdana; color: #ffffff; background: rgba(0,0,0,0.35); border-radius: 6px; }
+
+.coin_select { cursor:pointer; }
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-weight: bold;
+  font-family: Verdana;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 9px 20px 9px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+   -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-weight: bold;
+  font-family: Verdana;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 9px 20px 9px 20px;
+  text-decoration: none;
+}
+
+.btnback {
+  background: #eb212b;
+  background-image: -webkit-linear-gradient(top, #eb212b, #ff636b);
+  background-image: -moz-linear-gradient(top, #eb212b, #ff636b);
+  background-image: -ms-linear-gradient(top, #eb212b, #ff636b);
+  background-image: -o-linear-gradient(top, #eb212b, #ff636b);
+  background-image: linear-gradient(to bottom, #eb212b, #ff636b);
+   -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-weight: bold;
+  font-family: Verdana;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 9px 20px 9px 20px;
+  text-decoration: none;
+}
+
+.btnback:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+   -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-weight: bold;
+  font-family: Verdana;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 9px 20px 9px 20px;
+}
+
+.f_q { font: bold 16px verdana; }
+.f_s { font: 14px verdana; }
